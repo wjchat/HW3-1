@@ -1,5 +1,8 @@
 ## SI 364 - Winter 2018
 ## HW 3
+##William Chatterson
+##Worked with Phill Brown
+
 
 ####################
 ## Import statements
